@@ -1,0 +1,10 @@
+
+2018-06-02 08:32:19: PostmanRuntime/7.1.5
+
+2018-06-02 08:32:19: Array
+(
+    [QUERY_STRING] => op=delete_data
+    [user_id] => 1
+    [name] => we5
+)
+

@@ -1,0 +1,112 @@
+
+2018-06-02 11:03:13: Expo/2.5.9.1014765 CFNetwork/894 Darwin/17.4.0
+
+2018-06-02 11:03:13: Array
+(
+    [QUERY_STRING] => op=get_data
+)
+
+
+2018-06-02 11:08:13: Expo/2.5.9.1014765 CFNetwork/894 Darwin/17.4.0
+
+2018-06-02 11:08:13: Array
+(
+    [QUERY_STRING] => op=get_data
+)
+
+
+2018-06-02 11:09:03: Expo/2.5.9.1014765 CFNetwork/894 Darwin/17.4.0
+
+2018-06-02 11:09:03: Array
+(
+    [QUERY_STRING] => op=get_data
+)
+
+
+2018-06-02 11:12:33: Expo/2.5.9.1014765 CFNetwork/894 Darwin/17.4.0
+
+2018-06-02 11:12:33: Array
+(
+    [QUERY_STRING] => op=get_data
+)
+
+
+2018-06-02 11:13:15: Expo/2.5.9.1014765 CFNetwork/894 Darwin/17.4.0
+
+2018-06-02 11:13:15: Array
+(
+    [QUERY_STRING] => op=get_data
+)
+
+
+2018-06-02 11:13:33: Expo/2.5.9.1014765 CFNetwork/894 Darwin/17.4.0
+
+2018-06-02 11:13:33: Array
+(
+    [QUERY_STRING] => op=get_data
+)
+
+
+2018-06-02 11:21:50: Expo/2.5.9.1014765 CFNetwork/894 Darwin/17.4.0
+
+2018-06-02 11:21:50: Array
+(
+    [QUERY_STRING] => op=get_data
+)
+
+
+2018-06-02 11:24:50: Expo/2.5.9.1014765 CFNetwork/894 Darwin/17.4.0
+
+2018-06-02 11:24:50: Array
+(
+    [QUERY_STRING] => op=get_data
+)
+
+
+2018-06-02 11:26:55: Expo/2.5.9.1014765 CFNetwork/894 Darwin/17.4.0
+
+2018-06-02 11:26:55: Array
+(
+    [QUERY_STRING] => op=get_data
+)
+
+
+2018-06-02 11:30:00: Expo/2.5.9.1014765 CFNetwork/894 Darwin/17.4.0
+
+2018-06-02 11:30:00: Array
+(
+    [QUERY_STRING] => op=get_data
+)
+
+
+2018-06-02 11:31:23: Expo/2.5.9.1014765 CFNetwork/894 Darwin/17.4.0
+
+2018-06-02 11:31:23: Array
+(
+    [QUERY_STRING] => op=get_data
+)
+
+
+2018-06-02 11:31:42: Expo/2.5.9.1014765 CFNetwork/894 Darwin/17.4.0
+
+2018-06-02 11:31:42: Array
+(
+    [QUERY_STRING] => op=get_data
+)
+
+
+2018-06-02 11:34:40: Expo/2.5.9.1014765 CFNetwork/894 Darwin/17.4.0
+
+2018-06-02 11:34:40: Array
+(
+    [QUERY_STRING] => op=get_data
+)
+
+
+2018-06-02 11:35:37: Expo/2.5.9.1014765 CFNetwork/894 Darwin/17.4.0
+
+2018-06-02 11:35:37: Array
+(
+    [QUERY_STRING] => op=get_data
+)
+
